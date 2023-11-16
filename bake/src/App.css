@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+*body {
+  font-family: "Playfair Display", serif;
+}
+.BackgroundImg {
+  background-image: url("./assets/HomepageImg/b-s12.png");
+  width: 100%;
+  height: 952px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.heroP {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  letter-spacing: 4px;
+}
+.heroH,
+.reviewTwoleftH,
+.featureH {
+  font-weight: 700;
+  font-family: "Playfair Display", serif;
+}
+.reviewBackG {
+  background-image: url("./assets/HomepageImg/reviewBackgroung.png");
+  height: 365px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.reviewH,
+.ArticalH {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+}
+/* .reviewTwoleftH , .featureH{
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+} */
+.FeatureProdBack {
+  background-image: url("./assets/HomepageImg/background-collection.png");
+  width: 100%;
+  height: 1100px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.FP1,
+.articalH,
+.footerSecHead {
+  font-family: "Playfair Display", serif;
+}
+.pinBack {
+  background-image: url("./assets/HomepageImg/pin-bn.png");
+  width: 100%;
+  height: 554px;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+}
+.footerBack {
+  background-image: url("./assets/HomepageImg/footerbackg.png");
+  width: 100%;
+  height: 500px;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+}
+.LogH,
+.RegH,
+.MessageH,
+.aboutUsH,
+.ourH,
+.memH,
+.blogHeadH {
+  font-family: "Playfair Display", serif;
+}
+.AboutHeroImg {
+  background-image: url("./assets/AboutUspageImg/backery.jpg");
+  width: 100%;
+  height: 170px;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+}
+.ErrorBg{
+  background: url("./assets/AboutUspageImg/backery.jpg");
+  width: 100%;
+  height: 830px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
